@@ -1,0 +1,14 @@
+{
+  "name": "to_do_base",
+  "version": "1.0.0",
+  "description": "rest to base api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "oVirtuo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
